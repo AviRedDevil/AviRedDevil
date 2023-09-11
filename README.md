@@ -53,13 +53,6 @@
 </a>
 </p>
 
-<h3 align="left">🛠️ Android Development 🛠️</h3>
-<p align="left">
-<a href="#" target="blank">
-<img src="https://skillicons.dev/icons?i=androidstudio,java" />
-</a>
-</p>
-
 <h3 align="left">🛠️ Databases 🛠️</h3>
 <p align="left">
 <a href="#" target="blank">
